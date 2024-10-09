@@ -1,0 +1,131 @@
+Here are the fundamental trigonometric identities:
+
+### 1. **Pythagorean Identities**:
+\[
+\sin^2 \theta + \cos^2 \theta = 1
+\]
+\[
+1 + \tan^2 \theta = \sec^2 \theta
+\]
+\[
+1 + \cot^2 \theta = \csc^2 \theta
+\]
+
+### 2. **Reciprocal Identities**:
+\[
+\sin \theta = \frac{1}{\csc \theta}, \quad \csc \theta = \frac{1}{\sin \theta}
+\]
+\[
+\cos \theta = \frac{1}{\sec \theta}, \quad \sec \theta = \frac{1}{\cos \theta}
+\]
+\[
+\tan \theta = \frac{1}{\cot \theta}, \quad \cot \theta = \frac{1}{\tan \theta}
+\]
+
+### 3. **Quotient Identities**:
+\[
+\tan \theta = \frac{\sin \theta}{\cos \theta}
+\]
+\[
+\cot \theta = \frac{\cos \theta}{\sin \theta}
+\]
+
+### 4. **Co-Function Identities** (for complementary angles):
+\[
+\sin\left( \frac{\pi}{2} - \theta \right) = \cos \theta
+\]
+\[
+\cos\left( \frac{\pi}{2} - \theta \right) = \sin \theta
+\]
+\[
+\tan\left( \frac{\pi}{2} - \theta \right) = \cot \theta
+\]
+\[
+\cot\left( \frac{\pi}{2} - \theta \right) = \tan \theta
+\]
+\[
+\sec\left( \frac{\pi}{2} - \theta \right) = \csc \theta
+\]
+\[
+\csc\left( \frac{\pi}{2} - \theta \right) = \sec \theta
+\]
+
+### 5. **Even-Odd Identities**:
+\[
+\sin(-\theta) = -\sin \theta
+\]
+\[
+\cos(-\theta) = \cos \theta
+\]
+\[
+\tan(-\theta) = -\tan \theta
+\]
+\[
+\cot(-\theta) = -\cot \theta
+\]
+\[
+\sec(-\theta) = \sec \theta
+\]
+\[
+\csc(-\theta) = -\csc \theta
+\]
+
+### 6. **Double Angle Identities**:
+\[
+\sin(2\theta) = 2 \sin \theta \cos \theta
+\]
+\[
+\cos(2\theta) = \cos^2 \theta - \sin^2 \theta = 2 \cos^2 \theta - 1 = 1 - 2 \sin^2 \theta
+\]
+\[
+\tan(2\theta) = \frac{2 \tan \theta}{1 - \tan^2 \theta}
+\]
+
+### 7. **Half Angle Identities**:
+\[
+\sin\left( \frac{\theta}{2} \right) = \pm \sqrt{\frac{1 - \cos \theta}{2}}
+\]
+\[
+\cos\left( \frac{\theta}{2} \right) = \pm \sqrt{\frac{1 + \cos \theta}{2}}
+\]
+\[
+\tan\left( \frac{\theta}{2} \right) = \frac{\sin \theta}{1 + \cos \theta} = \frac{1 - \cos \theta}{\sin \theta}
+\]
+
+### 8. **Sum and Difference Identities**:
+\[
+\sin(a \pm b) = \sin a \cos b \pm \cos a \sin b
+\]
+\[
+\cos(a \pm b) = \cos a \cos b \mp \sin a \sin b
+\]
+\[
+\tan(a \pm b) = \frac{\tan a \pm \tan b}{1 \mp \tan a \tan b}
+\]
+
+### 9. **Product-to-Sum Identities**:
+\[
+\sin a \sin b = \frac{1}{2} [\cos(a - b) - \cos(a + b)]
+\]
+\[
+\cos a \cos b = \frac{1}{2} [\cos(a - b) + \cos(a + b)]
+\]
+\[
+\sin a \cos b = \frac{1}{2} [\sin(a + b) + \sin(a - b)]
+\]
+
+### 10. **Sum-to-Product Identities**:
+\[
+\sin a + \sin b = 2 \sin\left( \frac{a + b}{2} \right) \cos\left( \frac{a - b}{2} \right)
+\]
+\[
+\sin a - \sin b = 2 \cos\left( \frac{a + b}{2} \right) \sin\left( \frac{a - b}{2} \right)
+\]
+\[
+\cos a + \cos b = 2 \cos\left( \frac{a + b}{2} \right) \cos\left( \frac{a - b}{2} \right)
+\]
+\[
+\cos a - \cos b = -2 \sin\left( \frac{a + b}{2} \right) \sin\left( \frac{a - b}{2} \right)
+\]
+
+These identities are essential in simplifying and solving trigonometric equations, integrals, and other mathematical problems involving trigonometric functions.
